@@ -1,38 +1,38 @@
 <!-- ================== BANNER ================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Anamika%20Verma&fontSize=40&fontAlignY=40&desc=MERN%20Backend%20Developer%20%7C%20Student%20Researcher&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Anamika%20Verma&fontSize=40&fontAlignY=40&desc=Full%20Stack%20MERN%20Developer&descAlignY=65"/>
 </p>
 
 <!-- ================== TYPING INTRO ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Anamika+Verma;MERN+Stack+Backend+Developer;REST+API+Builder;Student+Researcher+%F0%9F%94%AC;Generative+AI+Certified;Learning+System+Design+%26+Node.js"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Anamika+Verma;Full+Stack+MERN+Developer;React+%2B+Node.js+Builder;REST+API+Developer;Generative+AI+Certified;Building+Scalable+Web+Apps"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🔹 MERN stack backend developer  
+🔹 Full Stack MERN Developer  
+🔹 Build frontend with React & backend with Node.js/Express  
+🔹 Strong in REST API development  
+🔹 Focused on scalable web applications  
 🔹 Generative AI certified learner  
-🔹 Building REST APIs & role-based dashboards  
-🔹 Interested in backend architecture & system design  
-🔹 Student researcher mindset — problem solving focused  
 
 ---
 
 ## 🧠 Current Focus
 
-✅ Express backend architecture  
+✅ Full stack MERN applications  
 ✅ Secure REST APIs  
+✅ Authentication & authorization  
 ✅ Database schema design  
-✅ Research dashboard systems  
-✅ Node.js advanced concepts  
+✅ Advanced Node.js concepts  
 
 ---
 
-## 🛠️ MERN + Backend Tech Stack
+## 🛠️ MERN Full Stack Tech
 
 <p align="center">
 
@@ -41,28 +41,27 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT%20Auth-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mongoose-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🤖 AI & Learning
+## 🤖 AI Learning
 
-🎓 Completed **Generative AI Course**  
-🧪 Exploring AI-assisted applications  
-📚 Learning how to integrate AI into backend systems  
+🎓 Completed Generative AI Course  
+⚡ Exploring AI integration in web apps  
 
 ---
 
 ## 📌 Featured Projects
 
 🔹 Research Dashboard — student–teacher role based backend  
-🔹 MERN CRUD APIs — authentication + protected routes  
-🔹 Backend API systems with MongoDB  
+🔹 MERN CRUD APIs — auth + protected routes  
+🔹 Full stack React + Node.js apps  
 
 ---
 
@@ -89,18 +88,17 @@
 ## 📬 Connect With Me
 
 📧 anamikatverma888@gmail.com  
-💼 www.linkedin.com/in/anamika-verma-11343a3a1 
+💼 www.linkedin.com/in/anamika-verma-11343a3a1  
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Direction
 
-💼 Backend Engineer / MERN Developer  
-🔬 Research-oriented developer  
+💼 Full Stack Developer — MERN Stack  
 🚀 Open to internships & collaboration  
 
 ---
 
 <p align="center">
-⭐ If you like my work — consider starring my repositories
+⭐ Star my repositories if you find them useful
 </p>
