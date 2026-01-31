@@ -16,8 +16,7 @@
 
 🔹 Full Stack MERN Developer  
 🔹 Build frontend with React & backend with Node.js/Express  
-🔹 Strong in REST API development  
-🔹 Focused on scalable web applications  
+🔹 Strong in REST API development   
 🔹 Generative AI certified learner  
 
 ---
@@ -26,8 +25,7 @@
 
 ✅ Full stack MERN applications  
 ✅ Secure REST APIs  
-✅ Authentication & authorization  
-✅ Database schema design  
+✅ Authentication & authorization   
 ✅ Advanced Node.js concepts  
 
 ---
