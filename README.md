@@ -56,8 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=anamika8076&theme=tokyonight"/>
 </p>
 
----
-
 ## 🎯 Current Focus
 
 ✅ Express backend architecture  
